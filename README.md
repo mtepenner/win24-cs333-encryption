@@ -76,7 +76,3 @@ Hash words from `passwords.txt` using SHA-512 with 4 threads and save the result
 * **Libraries**: `<pthread.h>`, `<crypt.h>`
 * **Build System**: GNU Make
 
-
-```
-
-```
